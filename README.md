@@ -9,9 +9,9 @@ We hope to construct a wearable wrist band which will record sEMG signals and Ac
 # Technology Stack
 EMG sensor and electrodes, MPU6050 accelerometer, ESP8266 Wi-Fi module, GPS module, Python Language, Deep Learning ,Keras,  Firebase, Android Studio, Arduino IDE, PLX-DAQ, Microsoft Office.
 
-**Use cases**
+# Use cases
 1. Alert for caretakers of epileptic patients
-2. Continuous health monitoring
+2. Continuous health monitoring helpful for hospitals
 3. Continuous sleep monitoring system which can be used by non-epileptic people too
 4. Detection of unobserved seizures(61% cases of unobserved seizure activity)
 5. Location tracking of patients and list of nearby hospitals for emergency cases
